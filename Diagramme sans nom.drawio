@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T10:06:52.921Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="b5-9CYYaF-F6rTG05YQ7" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T10:10:22.211Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5DvlXAQxUSM3HqYmBHGp" version="21.2.9" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1790" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2007" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,6 +211,15 @@
             <mxPoint x="-510" y="440" as="sourcePoint" />
             <mxPoint x="-510" y="557" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_0HYidjk9VwmrmX6DFW6-49" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-830" y="500" as="sourcePoint" />
+            <mxPoint x="-670" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_0HYidjk9VwmrmX6DFW6-50" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Vertical handvover&lt;br&gt;Multi-connectivity&lt;br&gt;Flow control&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="_0HYidjk9VwmrmX6DFW6-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
